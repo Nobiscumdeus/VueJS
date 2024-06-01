@@ -1,0 +1,34 @@
+vueapp/.git
+backend/.git
+node_modules/
+*.log
+dist/
+backend/node_modules/
+vueapp/node_modules/
+vueapp/.vscode/
+
+
+# Logs
+vueapp/logs
+vueapp/*.log
+vueapp/npm-debug.log*
+vueapp/yarn-debug.log*
+vueapp/yarn-error.log*
+vueapp/pnpm-debug.log*
+vueapp/lerna-debug.log*
+
+vueapp/node_modules
+vueapp/dist
+vueapp/dist-ssr
+vueapp/*.local
+
+vueapp/# Editor directories and files
+vueapp/.vscode/*
+vueapp/!.vscode/extensions.json
+vueapp/.idea
+vueapp/.DS_Store
+vueapp/*.suo
+vueapp/*.ntvs*
+vueapp/*.njsproj
+vueapp/*.sln
+vueapp/*.sw?
